@@ -31,7 +31,7 @@ La webcam de PS3 a 2 niveaux de focus configurable en tournant la lentille.
 
 Pour la grande majorité des gens, le mode en tournant dans le sens contraire des aiguilles d'une montre est le plus efficace.
 
-## Étape 7 (Optionelle): Démarrage avec mon profil de base [Configuration de Flisher](TrackIRCurve.ini)
+## Étape 7 (Optionelle): Démarrage avec mon profil de base [Configuration de Flisher](https://raw.githubusercontent.com/FlisherOfatale/FlisherOpenTrackStuff/master/TrackIRCurve.ini)
 J'ai créer un profil inspiré de celui de TrackIR comme base pour mes autres profils disponible ici: 
 
 Notez que les courbes que vous voudrez utiliser dépendrons du jeux et de votre environnement physique (distances, taille de l'écran, etc). 
