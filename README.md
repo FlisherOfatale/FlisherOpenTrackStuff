@@ -6,6 +6,7 @@ Voici mon guide pour l'utilisation d'[OpenTrack](https://github.com/opentrack/op
 
 ## Étape 1: Téléchargement des pilotes pour la Webcam PS3 Eye
 Télécharger la dernière version des pilotes: https://github.com/jkevin/PS3EyeDirectShow/releases/tag/1.0b2
+
 Exécuter le fichier pour installer les pilotes
 
 ## Étape #2: Téléchargement d'OpenTrack
