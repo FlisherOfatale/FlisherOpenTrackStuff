@@ -4,12 +4,16 @@ FlisherOpenTrackStuff
 Voici mon guide pour l'utilisation d'[OpenTrack](https://github.com/opentrack/opentrack/).
 
 
-## Étape #1: Téléchargement d'OpenTrack
+## Étape 1: Téléchargement des pilotes pour la Webcam PS3 Eye
+Télécharger la dernière version des pilotes: https://github.com/jkevin/PS3EyeDirectShow/releases/tag/1.0b2
+Exécuter le fichier pour installer les pilotes
+
+## Étape #2: Téléchargement d'OpenTrack
 Télécharger la dernières version d'Opentrack disponible sur la page https://github.com/opentrack/opentrack/releases
 
 Le lien direct pour la dernière version au momment d'écrire ces lignes: [OpenTrack 2.3.12](https://github.com/opentrack/opentrack/releases/download/opentrack-2.3.12/opentrack-2.3.12-win32-setup.exe)
 
-## Étape #2: Installer OpenTrack
+Exécuter le fichier pour installer OpenTrack.
 
 ## Étape #3: Brancher la WebCam
 Vous devrier voir que votre ordinateur détecte un nouveau périphériques après quelques secondes.
@@ -31,17 +35,7 @@ La webcam de PS3 a 2 niveaux de focus configurable en tournant la lentille.
 
 Pour la grande majorité des gens, le mode en tournant dans le sens contraire des aiguilles d'une montre est le plus efficace.
 
-## Étape 7 (Optionelle): Démarrage avec mon profil de base [Configuration de Flisher](https://raw.githubusercontent.com/FlisherOfatale/FlisherOpenTrackStuff/master/TrackIRCurve.ini)
-J'ai créer un profil inspiré de celui de TrackIR comme base pour mes autres profils disponible ici: 
-
-Notez que les courbes que vous voudrez utiliser dépendrons du jeux et de votre environnement physique (distances, taille de l'écran, etc). 
-
-* Cliquez sur le bouton "Profile" et choisir "Open configuration directory"
-* Déplacez ou copiez le fichier téléchargé dans ce répertoire.
-* Sélectionner le nouveau profile "TrackIRCurve.ini" dans la sélaction de profile.
-* Puisqu'il s'agit d'un nouveau profile sur votre ordinateur, valider que les éléments de l'Étape 5 sont correctes. 
-
-## Étape 8: Configuration du modèle de la clip
+## Étape 7: Configuration du modèle de la clip
 * Assurez-vous d'avoir des batterie rechargeable NiCd, 1.2v.
 * Mettez la switch à On. (vous devriez voir vois 3 points)
 * Démarrer le tracking en appuyant sur "Start"
