@@ -37,7 +37,7 @@ La webcam de PS3 a 2 niveaux de focus configurable en tournant la lentille.
 Pour la grande majorité des gens, le mode en tournant dans le sens contraire des aiguilles d'une montre est le plus efficace.
 
 ## Étape 7: Configuration du modèle de la clip
-* Assurez-vous d'avoir des batterie rechargeable NiCd, 1.2v.
+* Assurez-vous d'avoir des batterie rechargeable NiMh, 1.2v.
 * Mettez la switch à On. (vous devriez voir vois 3 points)
 * Démarrer le tracking en appuyant sur "Start"
 * Cliquez le petit Marteau a droite de PointTracker
