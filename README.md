@@ -2,6 +2,7 @@
 FlisherOpenTrackStuff
 
 Voici mon guide pour l'utilisation d'[OpenTrack](https://github.com/opentrack/opentrack/).
+SVP, *NE PAS* brancher la webcam avant d'avoir suivi les étapes.  Si vous ne le faites-pas, vous devrez probablement diagnostiquer et réparer l'installation des pilotes...
 
 
 ## Étape 1: Téléchargement des pilotes pour la Webcam PS3 Eye
@@ -12,7 +13,7 @@ Exécuter le fichier pour installer les pilotes
 ## Étape #2: Téléchargement d'OpenTrack
 Télécharger la dernières version d'Opentrack disponible sur la page https://github.com/opentrack/opentrack/releases
 
-Le lien direct pour la dernière version au momment d'écrire ces lignes: [OpenTrack 2.3.12](https://github.com/opentrack/opentrack/releases/download/opentrack-2.3.12/opentrack-2.3.12-win32-setup.exe)
+Le lien direct pour la dernière version au momment d'écrire ces lignes: [OpenTrack 2.3.13](https://github.com/opentrack/opentrack/releases/download/opentrack-2.3.13/opentrack-2.3.13-win32-setup.exe)
 
 Exécuter le fichier pour installer OpenTrack.
 
@@ -22,19 +23,27 @@ Vous devrier voir que votre ordinateur détecte un nouveau périphériques aprè
 ## Étape #4: Lancer Opentrack
 Lancer Opentrack
 
-## Étape #5: Validation de fonctionalité
+## Étape #5: Configuration d'un KeyBind pour recentrer:
+Cliquez sur le bouton "options", puis assigner une touche pour le keybinding "Center" en cliquant sur "Bind".  
+Pour ma part, j'utilie la touche à gauche du "1" sur le clavier.
+
+## Étape #6: Configuration du mode utilisé par OpenTrack
+
 Lors du lancement initial, les options suivantes devraient normalement être sélectionnées
 ![MainMenu](/images/MainMenu_1.png)
+
+## Étape #7: Configuration de la webcam
 
 * Cliquez le petit Marteau a droite de PointTracker
 * Sélectionnez "PS3 eye open driver" 
 * Fermer le menu en appyant sur "OK: en bas
 * Lancer le test en appuyant sur "Start", vous deviez voir une image noir floues ou nette.
 
-## Étape #6: Configuration de la webcam
 La webcam de PS3 a 2 niveaux de focus configurable en tournant la lentille.  
-
 Pour la grande majorité des gens, le mode en tournant dans le sens contraire des aiguilles d'une montre est le plus efficace.
+Notez que les webcam fournie par Flisher après Avril 2021 ont génalement un filtre, sauf indication contraire, bloquant la lumière visible, résultant en une image noire par défaut.  Vous verrez cependant les points infrarouge de la clip.
+
+Vous devrez possiblement ajuster le Gain et l'Exposure pour bien voir les points, un exemple basée sur votre clip et caméra est inclue lors de la livraison.
 
 ## Étape 7: Configuration du modèle de la clip
 * Assurez-vous d'avoir des batterie rechargeable NiMh, 1.2v.
@@ -46,10 +55,9 @@ Pour la grande majorité des gens, le mode en tournant dans le sens contraire de
 * Configurer les valeurs suivantes si le long bras est vers le bas (ou le contraire si le long bras est vers le haut)
 ![Clip](images/PointTracker_Clip.png)
 * Démarrez la calibration en cliquant sur "Start Calibration"
-* Effectuez des mouvements de gauche à droite et de haut en pas quelques fois.  NE PAS pencher ou déplacer votre tête.
+* Effectuez des mouvements de gauche à droite et de haut en pas quelques fois.  NE PAS pencher, déplacer votre tête ou faire de diagonale pendant cette calibration.
 * Terminer la calibration en cliquand sur "Stop Calibration"
 
-Binding.png
 
 ## Troubleshooting:
 ### Effet de Flares
