@@ -4,17 +4,12 @@ FlisherOpenTrackStuff
 Voici mon guide pour l'utilisation d'[OpenTrack](https://github.com/opentrack/opentrack/).
 SVP, *NE PAS* brancher la webcam avant d'avoir suivi les étapes.  Si vous ne le faites-pas, vous devrez probablement diagnostiquer et réparer l'installation des pilotes...
 
-
-## Étape 1: Téléchargement des pilotes pour la Webcam PS3 Eye
-Télécharger la dernière version des pilotes: https://github.com/jkevin/PS3EyeDirectShow/releases/tag/1.0b2
-
-Exécuter le fichier pour installer les pilotes
-
-## Étape #2: Téléchargement d'OpenTrack
+## Étape #1: Téléchargement d'OpenTrack
 Télécharger la dernières version d'Opentrack disponible sur la page https://github.com/opentrack/opentrack/releases
 
-Le lien direct pour la dernière version au momment d'écrire ces lignes: [OpenTrack 2.3.13](https://github.com/opentrack/opentrack/releases/download/opentrack-2.3.13/opentrack-2.3.13-win32-setup.exe)
+Le lien direct pour la dernière version au momment d'écrire ces lignes: [OpenTrack 2021.1.2](https://github.com/opentrack/opentrack/releases/download/opentrack-2021.1.2/opentrack-2021.1.2-win32-setup.exe)
 
+## Étape #2: Installer OpenTrack
 Exécuter le fichier pour installer OpenTrack.
 
 ## Étape #3: Brancher la WebCam
