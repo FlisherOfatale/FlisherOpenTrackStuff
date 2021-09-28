@@ -9,7 +9,9 @@ Télécharger la dernière version des pilotes open source de la PS3 Eye Cam: ht
 
 Notez que la dernière version d'OpenTrack possède un pilote natif un peu plus performant que celui à part, mais est parfois plus difficile à installer.
 
-Exécuter le fichier pour installer les pilotes
+Exécuter le fichier pour installer les pilotes.
+
+Redémarrez votre ordinateur avant de continuer.
 
 ## Étape #1: Téléchargement d'OpenTrack
 Télécharger la dernières version d'Opentrack disponible sur la page https://github.com/opentrack/opentrack/releases
