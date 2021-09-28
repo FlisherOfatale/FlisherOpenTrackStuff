@@ -4,6 +4,13 @@ FlisherOpenTrackStuff
 Voici mon guide pour l'utilisation d'[OpenTrack](https://github.com/opentrack/opentrack/).
 SVP, *NE PAS* brancher la webcam avant d'avoir suivi les étapes.  Si vous ne le faites-pas, vous devrez probablement diagnostiquer et réparer l'installation des pilotes...
 
+## Étape optionelle depuis OpenTrack 2021.1.2
+Télécharger la dernière version des pilotes open source de la PS3 Eye Cam: https://github.com/jkevin/PS3EyeDirectShow/releases/tag/1.0b2
+
+Notez que la dernière version d'OpenTrack possède un pilote natif un peu plus performant que celui à part, mais est parfois plus difficile à installer.
+
+Exécuter le fichier pour installer les pilotes
+
 ## Étape #1: Téléchargement d'OpenTrack
 Télécharger la dernières version d'Opentrack disponible sur la page https://github.com/opentrack/opentrack/releases
 
