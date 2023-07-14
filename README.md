@@ -16,7 +16,7 @@ Redémarrez votre ordinateur avant de continuer.
 ## Étape #1: Téléchargement d'OpenTrack
 Télécharger la dernières version d'Opentrack disponible sur la page https://github.com/opentrack/opentrack/releases
 
-Le lien direct pour la dernière version au momment d'écrire ces lignes: [opentrack 2022.3.2](https://github.com/opentrack/opentrack/releases/download/opentrack-2022.3.2/opentrack-2022.3.2-win32-setup.exe)
+Le lien direct pour la dernière version au momment d'écrire ces lignes: [opentrack 2023.1.0](https://github.com/opentrack/opentrack/releases/download/opentrack-2023.1.0/opentrack-2023.1.0-win32-setup.exe)
 
 ## Étape #2: Installer OpenTrack
 Exécuter le fichier pour installer OpenTrack.
